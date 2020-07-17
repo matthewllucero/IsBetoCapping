@@ -3,6 +3,10 @@ var options = [
 	"Smells like cap", 
 	"He seems to be balding",
 	"That's a cap and a half",
+	"Cap",
+	"CAP",
+	"He's capping hard",
+	"He's not capping"
 ];
 
 var button = document.getElementById("button");
