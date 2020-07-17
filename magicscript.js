@@ -14,7 +14,8 @@ var options = [
 	"*sniffs*",
 	"That's cap",
 	"Smells like cap",
-	"🧢"
+	"🧢",
+	"Colin CAPernick"
 ];
 
 var button = document.getElementById("button");
