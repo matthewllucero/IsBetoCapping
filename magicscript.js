@@ -19,7 +19,7 @@ button.addEventListener("click", function(){
     alert("Please enter a question!");
   } else {
     eight.innerText = "";
-    var num = input.value.length % options.length;
+    var num = Math.floor(Math.random() * options.length);
     answer.innerText = options[num];
   }
 });
