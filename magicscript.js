@@ -10,7 +10,11 @@ var options = [
 	"1000% cap",
 	"Cappers are rampant",
 	"He's capping hard",
-	"He's not capping"
+	"He's not capping",
+	"*sniffs*",
+	"That's cap",
+	"Smells like cap",
+	"🧢"
 ];
 
 var button = document.getElementById("button");
