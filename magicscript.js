@@ -5,6 +5,10 @@ var options = [
 	"That's a cap and a half",
 	"Cap",
 	"CAP",
+	"C A P",
+	"That's a motha fuckin' cap",
+	"1000% cap",
+	"Cappers are rampant",
 	"He's capping hard",
 	"He's not capping"
 ];
